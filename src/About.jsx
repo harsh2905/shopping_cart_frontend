@@ -2,7 +2,7 @@ import './App.css';
 function About() {
 
   return (
-    <div className="aboutt">
+    <div className="about">
 			
 			<p className='section'><br/><br/> The E-Commerce is a shopping website which is designed to order items through the browser. The website will provide users with the chance to register and login themselves. The website will provide different kinds of categories from where users can buy the products. Users can choose the products from the given categories and admin can add the products to cart. Once the product is added to the cart, the user can remove the product from the cart as well.  
 
